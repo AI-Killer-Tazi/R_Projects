@@ -8,3 +8,4 @@ Indeed, the popularity index is calculated thanks to the number of popular actor
 
 And finally, since Game of Thrones is a War series, the number of deaths in each episode means a lot to the viewer. The similarity between the episodes is found by a Clustering which allowed profiling 73 existing episodes.
 
+*Link to view App : * https://tazi--ai--killer.shinyapps.io/Profiling_GOT/
